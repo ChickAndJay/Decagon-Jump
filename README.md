@@ -18,5 +18,5 @@ Android Jump Game
        느끼고, 사용자 캐릭터에는 PlayMaker를 사용하지 않음
     - 장애물의 단순 반복에 과정들만 PlayMaker 사용함    
 
-_Unity Ads 로 Google Play 광고를 추가함
-  프로젝트를 그대로 다운로드해도 실행할 _
+__Unity Ads 로 Google Play 광고를 추가함
+  프로젝트를 그대로 다운로드해도 실행할 
