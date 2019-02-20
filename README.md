@@ -14,9 +14,9 @@ Android Jump Game
              점프 세기에 따른 점프 예상지점을 점선으로 표시
 + 담당 업무 : 1인 개발
 + 제작과정 특이사항 : 
-    ++ Big Pogo Man 제작 과정에서 PlayMaker의 단점 및 연동의 부자연스러움을
+    - Big Pogo Man 제작 과정에서 PlayMaker의 단점 및 연동의 부자연스러움을
        느끼고, 사용자 캐릭터에는 PlayMaker를 사용하지 않음
-    ++ 장애물의 단순 반복에 과정들만 PlayMaker 사용함
-    
-+ Unity Ads 로 Google Play 광고를 추가함
-  프로젝트를 그대로 다운로드해도 실행할 
+    - 장애물의 단순 반복에 과정들만 PlayMaker 사용함    
+
+_Unity Ads 로 Google Play 광고를 추가함
+  프로젝트를 그대로 다운로드해도 실행할 _
