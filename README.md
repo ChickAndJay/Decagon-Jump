@@ -1,8 +1,8 @@
 # Decagon-Jump
 Android Jump Game
 
-학교 졸업작품으로 발표 시연을 위해서 멀티로 제작했고, 
-서버는 
++ Helix Jump 게임을 모티브로 제작한 게임
++ 원터치 방식의 단순하고, 장애물을 피하는 
 
 ## 게임 정보
 + 플랫폼 : Android
