@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FrontDetector
+  - GameManager
+  - StartTrigger
+  - NextPos
+  - GoalTrigger
+  - StartObj
+  - Obstacle
+  - Stage
+  - Explosive
+  - Ground
+  - PlayerRender
+  - FracturingObj
+  - SwitchRender
+  - ExplodeAndDestroy
+  - ForwardTorque
+  - BackwardTorque
+  - BridgePart
+  - BeepTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Particles
+  - Explosive
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
