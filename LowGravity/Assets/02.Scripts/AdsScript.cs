@@ -29,7 +29,7 @@ public class AdsScript : MonoBehaviour {
 
 #if UNITY_ANDROID
 
-        string AdUnitID = "ca-app-pub-2970708053906682/7147937170";
+        string AdUnitID = "";
 
 #else
 
