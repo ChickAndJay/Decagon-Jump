@@ -19,4 +19,4 @@ Android Jump Game
     - 장애물의 단순 반복에 과정들만 PlayMaker 사용함    
 
 __Unity Ads 로 Google Play 광고를 추가함
-  프로젝트를 그대로 다운로드해도 실행할 
+  프로젝트를 그대로 다운로드해도 실행할__
