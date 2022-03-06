@@ -20,3 +20,5 @@ Android Jump Game
 
 __Unity Ads 로 Google Play 광고를 추가함
   때문에 코드 참고용으로 사용__
+  
+https://www.youtube.com/watch?v=RQmMrjWUW8s
